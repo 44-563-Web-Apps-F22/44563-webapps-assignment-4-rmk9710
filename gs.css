@@ -1,11 +1,8 @@
 #speech {font-size: 12;
-     color:black;
      font-style:normal;}
 #song {font-size: 14;
-     color: black;
      font-style: italic;}
 #direction {font-size: 13;
-     color:black;
      background-color: bisque;}
 #name {font-size: 18;
      }
@@ -14,3 +11,15 @@
 .cas {color: blue;}
 .luiz {color: red;}
 .both {color: green;}
+.table {border: 10ch;;
+    color: black;
+    background-color: aquamarine;
+    text-align: center;}
+    tr:nth-child(even) {
+        background-color:darkgreen;
+        color: white;
+      }
+#name:hover { color: fuchsia;
+    border: 5ch;
+    border-color: black;
+}
