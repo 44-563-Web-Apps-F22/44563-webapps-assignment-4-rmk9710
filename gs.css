@@ -1,0 +1,16 @@
+.speech {font-size: 12;
+     color:black;
+     font-style:normal;}
+.song {font-size: 14;
+     color: black;
+     font-style: italic;}
+.direction {font-size: 13;
+     color:black;
+     background-color: bisque;}
+.name {font-size: 18;
+     color:black;}
+.direction.hover {background-color: bisque;
+     color: black;}
+.name.cas {color: blue;}
+.name.luiz {color: red;}
+.name.both {color: green;}
